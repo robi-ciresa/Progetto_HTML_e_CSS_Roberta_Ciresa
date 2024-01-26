@@ -1,0 +1,66 @@
+@media screen and (max-width:768px){
+    nav {
+        height: 100px;
+        font-size: 1.1em;
+    }  
+    
+    .container {
+        padding: 110px 0px 10px 0px;
+    }  
+}
+
+@media screen and (min-width:768px){
+    nav {
+        height: 60px;
+        font-size: 1.1em;
+    }   
+    
+    .container {
+        padding: 70px 0px 10px 0px;
+    }
+}
+
+.about_color {
+    background-color: palegoldenrod;
+}
+
+.about_cell {
+    border-left: 5px solid palegoldenrod;
+    border-bottom: 5px solid palegoldenrod;
+    border-radius: 8px;
+    background-color: white;
+    margin-bottom: 5px;
+}
+
+.hobby_color {
+    background-color: gainsboro;
+}
+
+.hobby_cell {
+    border-left: 5px solid gainsboro;
+    border-bottom: 5px solid gainsboro;
+    border-radius: 8px;
+    background-color: white;
+    margin-bottom: 5px;
+}
+
+.work_color {
+    background-color: lightblue;
+}
+
+.work_cell {
+    border-left: 5px solid lightblue;
+    border-bottom: 5px solid lightblue;
+    border-radius: 8px;
+    background-color: white;
+    margin-bottom: 5px;
+}
+
+cite {
+    text-align: center;
+}
+
+.img_editing {
+    margin: 3px;
+    max-width: 100%;
+}

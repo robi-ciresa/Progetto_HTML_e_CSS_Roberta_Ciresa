@@ -1,0 +1,39 @@
+@media screen and (max-width:768px){
+    nav {
+        height: 110px;
+        font-size: 1.1em;
+    }  
+    
+    .container {
+        padding: 120px 0px 10px 0px;
+    }  
+}
+
+@media screen and (min-width:768px){
+    nav {
+        height: 90px;
+        font-size: 1.1em;
+    }   
+    
+    .container {
+        padding: 100px 0px 10px 0px;
+    }
+}
+
+.cv_color{
+    background-color: lightgray;
+}
+
+.cv_cell {
+    border-left: 5px solid lightgrey;
+    border-bottom: 5px solid lightgrey;
+    border-radius: 8px;
+    background-color: white;
+    margin-bottom: 5px;
+}
+
+.my_photo {
+    margin: 5px;
+    float: left;
+    height: 200px;
+}
