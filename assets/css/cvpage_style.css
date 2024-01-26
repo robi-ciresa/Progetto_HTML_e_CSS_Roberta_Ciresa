@@ -1,7 +1,7 @@
 @media screen and (max-width:768px){
     nav {
         height: 110px;
-        font-size: 1em;
+        font-size: 0.9em;
     }  
     
     .container {
